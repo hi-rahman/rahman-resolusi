@@ -13,3 +13,4 @@ RENCANA BELAJAR RAHMAN NURHADI
 - Javascript
   *React
   *Vue
+  *Angular
