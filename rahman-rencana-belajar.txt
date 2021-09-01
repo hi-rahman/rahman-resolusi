@@ -1,0 +1,8 @@
+RENCANA BELAJAR RAHMAN NURHADI 
+
+- GIT & GITHUB
+  * Branch
+  * Merge
+- SSH
+- HTTP/HTTPS
+- Basic Terminal Usage
