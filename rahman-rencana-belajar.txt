@@ -7,3 +7,9 @@ RENCANA BELAJAR RAHMAN NURHADI
 - HTTP/HTTPS
 - API
 - Basic Terminal Usage
+- CSS 
+ *Bootstrap
+ *Tailwind
+- Javascript
+  *React
+  *Vue
