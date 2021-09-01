@@ -12,3 +12,4 @@ RENCANA BELAJAR RAHMAN NURHADI
  *Tailwind
 - Javascript
   *React
+  *Vue
